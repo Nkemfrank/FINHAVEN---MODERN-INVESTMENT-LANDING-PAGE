@@ -48,7 +48,7 @@ FinHaven/
 Clone the repository:
 Copy code
 Bash
-git clone https://github.com/your-username/finhaven-landing-page.git
+git clone https://github.com/Nkemfrank/finhaven-landing-page.git
 Open index.html in your browser.
 
 🎯 Purpose of This Project
