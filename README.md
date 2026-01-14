@@ -3,7 +3,7 @@ FinHaven – Investment Landing Page
 FinHaven is a modern, responsive investment landing page designed for crypto investments, real estate assets, and digital 
 services.
 The project focuses on clean UI/UX, responsiveness, and real-world fintech design standards.
-![FinHaven Preview](<img width="1913" height="1006" alt="image" src="https://github.com/user-attachments/assets/02881dbd-3c41-4b28-a633-38de42801081" />)
+![FinHaven Preview](FINHAVEN - Google Chrome 1_14_2026 12_06_04 PM.png)
 
 🚀 Features
 
