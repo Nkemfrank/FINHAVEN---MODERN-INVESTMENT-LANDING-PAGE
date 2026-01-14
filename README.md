@@ -33,6 +33,8 @@ Tablets
 Laptops
 Large desktop screens
 
+![FinHaven Preview](https://github.com/Nkemfrank/FINHAVEN---MODERN-INVESTMENT-LANDING-PAGE/blob/cb9c4f061f906c31f2ca326b2952d19485b1652f/light-calc.jpg)
+
 🌗 Dark / Light Mode
 The project uses CSS variables to dynamically switch between dark and light themes for better accessibility and user experience.
 
