@@ -49,6 +49,8 @@ FinHaven/
 │   └── images & icons
 └── README.md
 
+![FinHaven Preview](https://github.com/Nkemfrank/FINHAVEN---MODERN-INVESTMENT-LANDING-PAGE/blob/2f53f84da925af3ba33821f431587e4b52727b25/dark-calc.png)
+
 🧪 How to Run Locally
 
 Clone the repository:
