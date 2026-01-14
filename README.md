@@ -18,6 +18,8 @@ The project focuses on clean UI/UX, responsiveness, and real-world fintech desig
 🧭 Sticky and responsive navigation bar
 🎨 Modern UI with smooth hover & transition effects
 
+![FinHaven Preview](https://github.com/Nkemfrank/FINHAVEN---MODERN-INVESTMENT-LANDING-PAGE/blob/055eff987f787f1d2f6664f57a22290fc279e72c/dark-banner.png)
+
 🛠️ Technologies Used
 
 HTML5 – Semantic structure
@@ -33,6 +35,8 @@ Large desktop screens
 
 🌗 Dark / Light Mode
 The project uses CSS variables to dynamically switch between dark and light themes for better accessibility and user experience.
+
+
 📂 Project Structure
 FinHaven/
 │
